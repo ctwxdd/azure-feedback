@@ -17,7 +17,7 @@
 
     * 部署方便
 
-        可以按照需求與預算選擇適合的機器使用，並使用助教提供的script進行環境部署，只需要幾行指令，即可完成cuda、cudnn與 CNTK、Tensorflow、pytorch、Keras等深度學習框架的實驗環境的設定，省去許多架設環境的時間成本。
+        可以按照需求與預算選擇適合的機器使用，並使用助教提供的script進行環境部署，只需要幾行指令，即可完成cuda、cudnn與 CNTK、Tensorflow、pytorch、Keras等深度學習框架的實驗環境的設定，省去許多架設環境的時間成本。
 
     * 使用彈性
 
@@ -68,5 +68,5 @@
         曾在Information retireval 之final project 使用 Computer Vision API 來做影像的caption生成，透過簡單的api，就可以省掉要自己train model的麻煩，cognitivie service 對於demo idea或是 prototyping 確實為一個牆而又立的工具。
 
 
-整體而言，Azure 雲端平台為用戶提供了許多強大的功能，解決了過去大家要自己添購、維護機器的麻煩，架設伺服器只要動動手指，以後就只要跟電信、水電一樣付費即可。雖然未使用過Aws、google等其他平台提供的服務，但過去Azure完整流暢的使用體驗，讓我未來有雲端平台的需求，仍會以Azure作為優先的考量對象。
+整體而言，Azure 雲端平台為用戶提供了許多強大的功能，解決了過去大家要自己添購、維護機器的麻煩，架設伺服器只要動動手指，以後就只要跟電信、水電一樣付費即可。雖然未使用過AWS、Google等其他平台提供的服務，但過去Azure完整流暢的使用體驗，讓我未來有雲端平台的需求，仍會以Azure作為優先的考量對象。
 
